@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" xmlns:bx="https://boxy-svg.com">
+  <rect x="0" y="0" width="256" height="256" rx="15%" style="fill:#114ab2 ; stroke: #114ab2;"/>
+  <ellipse style="fill: #ffffff;" cx="129" cy="161" rx="54" ry="18"/>
+  <ellipse style="fill: #114ab2;" cx="129" cy="153" rx="54" ry="18"/>
+  <ellipse style="fill: #ffffff;" cx="129" cy="127" rx="54" ry="18"/>
+  <ellipse style="fill: #114ab2;" cx="129" cy="119" rx="54" ry="18"/>
+  <ellipse style="fill: #ffffff;" cx="129" cy="93" rx="54" ry="18"/>
+  <ellipse style="fill: #114ab2;" cx="129" cy="93" rx="46" ry="10"/>
+  <rect x="75.15" y="92.5" width="8" height="70" style="fill: #ffffff;"/>
+  <rect x="174.95" y="92.5" width="8" height="70" style="fill: #ffffff;"/>
+  <path d="M 233.778 91.165 L 251.73 120.502 L 215.826 120.502 L 233.778 91.165 Z" bx:shape="triangle 215.826 91.165 35.904 29.337 0.5 0 1@b63161ac" style="fill: rgb(17, 74, 178); stroke-width: 1px; transform-origin: 233.141px 104.114px 0px;" transform="matrix(-0.003178, -0.999995, 0.99998, -0.007746, -54.835413, 23.341582)"/>
+  <path d="M 131.739 51.076 L 141.855 67.513 L 121.623 67.513 L 131.739 51.076 Z" bx:shape="triangle 121.623 51.076 20.232 16.437 0.5 0 1@1b85782e" style="fill: #ffffff; transform-origin: 131.38px 58.33px 0px;" transform="matrix(-0.003178, -0.999995, 0.99998, -0.007746, 50.127499, 68.937721)"/>
+  <rect x="188" y="123" width="16" height="8" style="fill: #ffffff;"/>
+  <rect x="196" y="123" width="8" height="79" style="fill: #ffffff;"/>
+  <rect x="54" y="194" width="150" height="8" style="fill: #ffffff;"/>
+  <rect x="54" y="52" width="8" height="150" style="fill: #ffffff;"/>
+  <rect x="196" y="52" width="8" height="33" style="fill: #ffffff;"/>
+  <rect x="54" y="52" width="150" height="8" style="fill: #ffffff;"/>
+</svg>
